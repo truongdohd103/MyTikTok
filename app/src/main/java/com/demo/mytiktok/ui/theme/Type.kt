@@ -1,4 +1,4 @@
-package com.nhatvm.toptop.ui.theme
+package com.demo.mytiktok.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

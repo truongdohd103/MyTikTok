@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace 'com.nhatvm.toptop'
+    namespace 'com.demo.mytiktok'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.nhatvm.toptop"
+        applicationId "com.demo.mytiktok"
         minSdk 24
         targetSdk 33
         versionCode 1
